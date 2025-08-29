@@ -20,6 +20,6 @@ I build **fast and efficient systems in Unity**
 ## **Fun Stuff**:
 - Big fan of generation systems (like Conways Game Of Life)
 - Can solve a rubix cube
-- Favourite Game: Ori And The Will Of The Wisps
+- Favourite Game: Ori And The Will Of The Wisps > Suprise
 
 ---
