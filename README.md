@@ -2,7 +2,7 @@
 
 Unity developer who loves turning complex systems into fast, optimized solutions.
 
-I build **fast and efficient systems in Unity**
+I build **fast, scalable and efficient systems in Unity**
 - Multiplayer (Netcode for GameObjects)
 - Data-oriented when possible, bending math to shave off a couple ms
 - 3D A* background-threaded pathfinding
