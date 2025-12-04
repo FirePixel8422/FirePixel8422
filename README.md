@@ -22,5 +22,4 @@ I build **fast, scalable and efficient systems in Unity**
 - Can solve a rubix cube
 - Favourite Game: Ori And The Will Of The Wisps > Surprise
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FirePixel8422&show_icons=true&theme=tokyonight)
 ---
