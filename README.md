@@ -3,10 +3,11 @@
 Unity developer who loves turning complex systems into fast, optimized solutions.
 
 I build **fast, scalable and efficient systems in Unity**
+- Audio Raytracer/Spatializer
 - Multiplayer (Netcode for GameObjects)
-- Data-oriented when possible, bending math to shave off a couple ms
+- Data-oriented when possible
 - 3D A* background-threaded pathfinding
-- Custom instance rendering  
+- Custom instance rendering
 
 ---
 
